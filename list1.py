@@ -12,6 +12,5 @@ for i in range (0,n):
         print(Ac_id,"found at index",i)
         flag = True
         break
-4
 if flag==False:
         print(Ac_id,"not Found")
